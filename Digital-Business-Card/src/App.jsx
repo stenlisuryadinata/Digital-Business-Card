@@ -6,15 +6,17 @@ import {Skills} from './components/skills';
 
 function App() {
   return (
+    <React.Fragment>
     <div className="container">
-      <div class="card-container">
-        <span class="pro">PRO</span>
+      <div className="card-container">
+        <span className ="pro">PRO</span>
         <img src="https://res.cloudinary.com/stenli-suryadinata/image/upload/v1696324258/testing.jpg" alt="user"/>
         <Main />
         <Buttons />
         <Skills />
       </div>
     </div>
+    </React.Fragment>
   );
 }
 
