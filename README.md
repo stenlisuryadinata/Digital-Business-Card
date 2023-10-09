@@ -1,7 +1,5 @@
 # Digital Business Card
 
-![Digital Business Card](https://6523862b1e9f463705827aba--steady-taffy-c10d49.netlify.app/)
-
 This is a digital business card application built using React. It allows you to showcase your professional information, skills, and contact details in a modern and interactive way.
 
 ## Features
@@ -52,6 +50,10 @@ You can customize the content of your digital business card by editing the compo
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+### View It Live
+
+You can view the live project by visiting the following link: [Digital Business Card](https://6523862b1e9f463705827aba--steady-taffy-c10d49.netlify.app/)
 
 ### Contact
 If you have any questions or feedback, feel free to reach out:
